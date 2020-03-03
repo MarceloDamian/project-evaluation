@@ -6,7 +6,7 @@
 ---
 
 
-**Erick Cabrera **: 
+**Erick Cabrera**: 
 
 
 ---
@@ -32,16 +32,16 @@
 
 1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install? 
-**The development environment is CMake . Yes, there are instructions on how to download, build, and install, depending on the platform. [Link to download, build and install]( https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html) **
+**The development environment is CMake . Yes, there are instructions on how to download, build, and install, depending on the platform. [Link to download, build and install](https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html)**
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? 
-**Yes, the project does depend on other modules. The list of modules can be found [here] (https://docs.opencv.org/master/modules.html) **
+**Yes, the project does depend on other modules. The list of modules can be found [here](https://docs.opencv.org/master/modules.html)**
 
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.  
-**The code is somewhat easy to understand, but there are a few language barriers. The majority of the code is written in C++, but some of the code is written in CMake, Java, and Cuda all of which I lack familiarity with. **
+**The code is somewhat easy to understand, but there are a few language barriers. The majority of the code is written in C++, but some of the code is written in CMake, Java, and Cuda all of which I lack familiarity with.**
 
 
 
@@ -88,7 +88,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 
 1. Is there active discussion on the issues?
-**Yes, it is fairly active. There are active discussions on the issues. **
+**Yes, it is fairly active. There are active discussions on the issues.**
 
 
 1. Are issues tagged as easy, hard, for beginners, etc.? 
